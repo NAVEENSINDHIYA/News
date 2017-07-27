@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c0759ed38b85a435100b8267b1b80f9fbb0dafc1">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a528e2d3161bbc6ae04189e6455266434d8fd4c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_e2718de889af158070c925946ab7c86a2fefdd40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_70b4fdb1075c1f6288cc5b73120e26638e98ab52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\.android\build-cache\0b6be2d4f3a200169c25fd9fbaebdd6c008ce9be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1604acf7b0f514abf2b663fa2e15fab6afb029cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_f63615957ec2f7eea101cc408eaa8636b3e20056\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_ba0623350cae303a292519dc2af977323b6b9c85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.3-2\9b44c139a4ec57031e0c84ba0e49ba16df6d801c\kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.1.3-2_bafd1fc7705adcc004b71bc63febe4cbe6442961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_c153115d5d0178c588b04bfe0f6a700e4af29059\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_12af8dff12d34d57c4d2befadb4b83e9850f7f6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_517c0a0507e23314bc7cb41203abcb2dccebb04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_6fc01334b360c29af60c8fc98cd2bb61602621f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\scindia\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.3-2\3fe54c7558c903868351ac79b792d152bca958f2\kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="C:\Users\scindia\AndroidStudioProjects\NEWS\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jre7-1.1.3-2_5cd14743a98af599545550a283f6f2680ada1f3f\classes.dex" />
+    </item>
+
+</items>
